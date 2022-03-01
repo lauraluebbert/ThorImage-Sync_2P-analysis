@@ -22,7 +22,8 @@ The notebook also returns raw mean and background normalized mean traces.
 ### 4. dF/F0 heatmap (sum over all frames):
 ![2020-11-13_R70H05GCaMP_R72A10Chrim+ATR_thor6_df-f0_heatmap](https://user-images.githubusercontent.com/56094636/156091730-463c4883-5d9b-494a-944d-a6a562c62710.png)
 
-### 5. dF/F0 heatmap movie over time showing stimulation
+### 5. dF/F0 heatmap movie over time showing stimulation:
+https://user-images.githubusercontent.com/56094636/156097148-af4bfca4-12b5-4a44-889d-0c9e73c04b46.mp4
 
 ### 6. ROIs drawn for area of interest and background:
 ![2020-11-13_R70H05GCaMP_R72A10Chrim+ATR_thor6_rois_0](https://user-images.githubusercontent.com/56094636/156091221-d2ebeef5-7a64-40b5-a63c-8d4f2858223c.png)
