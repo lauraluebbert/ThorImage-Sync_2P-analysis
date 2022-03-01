@@ -1,4 +1,5 @@
 # ThorImage/ThorSync_2P-analysis
+[![DOI](https://zenodo.org/badge/275931002.svg)](https://zenodo.org/badge/latestdoi/275931002)
 Notebook to synchronize and analyze ThorImage + ThorSync 2-photon calcium imaging data with light stimulation.  
 
 The notebook requires the user to draw ROIs as described [here](https://github.com/lauraluebbert/confocal_z-stack_analysis/blob/master/README.md). The ROIs are drawn on an automatically computed sum projection. The stimulation information is automatically obtained from the ThorSync file.
