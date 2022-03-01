@@ -24,10 +24,7 @@ The notebook also returns raw mean and background normalized mean traces.
 
 ### 5. dF/F0 heatmap movie over time showing stimulation
 
-### 6. Raw and background normalized mean fluorescence graph showing stimulation:
-![2020-11-13_R70H05GCaMP_R72A10Chrim+ATR_thor6_bkg-norm-mean-fluorescence](https://user-images.githubusercontent.com/56094636/156091390-bb15c02f-ba78-44c3-96ef-40e34fdb2bc6.png)
-
-### 7. ROIs drawn for area of interest and background:
+### 6. ROIs drawn for area of interest and background:
 ![2020-11-13_R70H05GCaMP_R72A10Chrim+ATR_thor6_rois_0](https://user-images.githubusercontent.com/56094636/156091221-d2ebeef5-7a64-40b5-a63c-8d4f2858223c.png)
 ![2020-11-13_R70H05GCaMP_R72A10Chrim+ATR_thor6_bkg_rois_0](https://user-images.githubusercontent.com/56094636/156091196-315b928f-a331-4093-9131-3eda1ace2a77.png)
 
