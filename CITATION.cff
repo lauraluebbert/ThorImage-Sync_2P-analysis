@@ -1,0 +1,15 @@
+authors:
+  - family-names: Luebbert
+    given-names: Laura
+    orcid: "https://orcid.org/0000-0003-1379-2927"
+cff-version: 1.2.0
+date-released: "2022-02-28"
+identifiers:
+  - description: "DOI"
+    type: doi
+    value: 10.5281/zenodo.6317384
+license: MIT
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/lauraluebbert/ThorImage-Sync_2P-analysis"
+title: "ThorImage-Sync_2P-analysis"
+version: 0.0.1
