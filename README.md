@@ -28,5 +28,3 @@ https://user-images.githubusercontent.com/56094636/156097148-af4bfca4-12b5-4a44-
 ### 6. ROIs drawn for area of interest and background:
 ![2020-11-13_R70H05GCaMP_R72A10Chrim+ATR_thor6_rois_0](https://user-images.githubusercontent.com/56094636/156091221-d2ebeef5-7a64-40b5-a63c-8d4f2858223c.png)
 ![2020-11-13_R70H05GCaMP_R72A10Chrim+ATR_thor6_bkg_rois_0](https://user-images.githubusercontent.com/56094636/156091196-315b928f-a331-4093-9131-3eda1ace2a77.png)
-
-Written by Laura Luebbert for use in the Lois lab at Caltech.  
